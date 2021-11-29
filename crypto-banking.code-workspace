@@ -1,0 +1,28 @@
+{
+    "folders": [
+        {
+            "name": "app",
+            "path": "./app"
+        },
+        {
+            "name": "database",
+            "path": "./database"
+        },
+        {
+            "name": "frontend",
+            "path": "./frontend",
+        },
+        {
+            "name": "http-test",
+            "path": "./http-test"
+        },
+        {
+            "name": "blockchain-node",
+            "path": "./blockchain-node"
+        },
+        {
+            "name": "blockchain-app",
+            "path": "./blockchain-app"
+        }
+    ]
+}
